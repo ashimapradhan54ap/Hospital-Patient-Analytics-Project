@@ -52,7 +52,7 @@ The dataset contains 500 synthetic patient records covering department, treatmen
 
 ## ▶️ How to Run Each Version
 
-### 1. SQL — [`SQL_Analysis.sql`](SQL Analysis.sql)
+### 1. SQL — [`SQL_Analysis.sql`]
 Open in any MySQL/SQL Server client. It creates the database and table, inserts all 500 records, and includes ready-to-run analysis queries for each KPI/chart.
 
 ### 2. Excel — `Excel_Dashboard.xlsx`
