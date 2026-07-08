@@ -63,6 +63,8 @@ Open in Power BI Desktop (free download from Microsoft) to view the interactive 
 
 ### 4. Python (Streamlit) — `Python_Dashboard/`
 
+---
+
 ## 🛠️ Tech Stack
 
 `SQL` · `Microsoft Excel` · `Power BI` · `Python` · `Streamlit` · `Pandas` · `Plotly`
