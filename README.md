@@ -12,8 +12,8 @@ The dataset contains 500 synthetic patient records covering department, treatmen
 
 - [`SQL_Analysis.sql`](SQL_Analysis.sql)
 - [`Excel_Project/`](Excel_Project)
-  - [`Excel_Dashboard.xlsx`](Excel_Dashboard.xlsx)
-  - [`Excel_screenshot.png`](Excel_screenshot.png)
+  - [`Excel_Dashboard.xlsx`](Excel_Project/Excel_Dashboard.xlsx)
+  - [`Excel_screenshot.png`](Excel_project/Excel_screenshot.png)
 - [`PowerBI_Project/`](PowerBI_Project)
   - [`PowerBI_Dashboard.pbix`](PowerBI_Project/PowerBI_Dashboard.pbix)
   - [`PowerBI_screenshot.png`](PowerBI_Project/PowerBI_screenshot.png)
