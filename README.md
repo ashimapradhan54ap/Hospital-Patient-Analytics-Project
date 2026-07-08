@@ -1,5 +1,6 @@
 # 🏥 Hospital Patient Analytics — End-to-End Project
 
+🔗 **[Live Dashboard](https://hospital-patient-analytics-end-to-end-project-ogw6wljrrqids4tp.streamlit.app/)**
 An end-to-end data analytics project on hospital patient data, built across **four different tools** to showcase the same analysis from database to dashboard: **SQL**, **Excel**, **Power BI**, and **Python (Streamlit)**.
 
 The dataset contains 500 synthetic patient records covering department, treatment type, doctor, demographics, treatment cost, hospital stay duration, and recovery outcomes.
